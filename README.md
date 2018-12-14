@@ -29,5 +29,5 @@ version. Otherwise, run the application by right clicking on the `EmarktApplicat
 
 4) Use http://localhost:4200/login to login in the system and get the token.
 
-The live version is in https://safelight-emarkt-backend.herokuapp.com/ 
+The live version is hosted on https://safelight-emarkt-backend.herokuapp.com/ 
 
